@@ -8,7 +8,7 @@
 <a href="https://twitter.com/deposubili51459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deposubili51459" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/phantom-gng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phantom-gng" height="30" width="40" /></a>
 <a href="https://instagram.com/spoof.gng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spoof.gng" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/siberi̇zg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="siberi̇zg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/SiberİZg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="siberi̇zg" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/yw6MFfWt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/yw6MFfWt" height="30" width="40" /></a>
 </p>
 
