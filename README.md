@@ -17,11 +17,25 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phantomgng&show_icons=true&locale=en&layout=compact" alt="phantomgng" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phantomgng&" alt="phantomgng" /></p>    
-▗▄▄▖ ▗▖ ▗▖ ▗▄▖ ▗▖  ▗▖▗▄▄▄▖▗▄▖ ▗▖  ▗▖
-▐▌ ▐▌▐▌ ▐▌▐▌ ▐▌▐▛▚▖▐▌  █ ▐▌ ▐▌▐▛▚▞▜▌
-▐▛▀▘ ▐▛▀▜▌▐▛▀▜▌▐▌ ▝▜▌  █ ▐▌ ▐▌▐▌  ▐▌
-▐▌   ▐▌ ▐▌▐▌ ▐▌▐▌  ▐▌  █ ▝▚▄▞▘▐▌  ▐▌
-                                    
-                                    
+# Hello 👋, I'm Phantom
+### Cyber Security
+
+Hi 👋, I'm Phantom About Me 🛡️ Hello! I'm 15 years old and a tech enthusiast who has stepped into the world of cybersecurity. From a young age, I've focused on learning how systems work and how to close vulnerabilities in those systems. Currently, I'm actively: 💻 Working on Python and automation tools. 🐧 Learning Linux (Kali & Parrot) systems and network security. 🛡️ Developing my skills in ethical hacking fundamentals and web application security. My goal is to become one of Türkiye's leading cybersecurity experts in the future and contribute to building a secure digital world.
+
+## Skills
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
+</p>
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=phantom&show_icons=true&count_private=true&theme=merko" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom&layout=compact&theme=merko" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=phantom&theme=merko" alt="GitHub Streak" />
                                                                                   
                                               
